@@ -1,4 +1,3 @@
-# supply-chain-management-FMCG-
 # FMCG Instant Noodles Supply Optimization Model
 
 ## Introduction
