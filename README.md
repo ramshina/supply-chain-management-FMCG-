@@ -27,13 +27,21 @@ number of times the warehouse faces the breakdown in the last 3 months, product 
 The following data science process was employed to build the model:
 
 1.Project Overview
+
 2.Data Exploration
+
 3.Data Cleaning
+
 4.Feature Engineering
+
 5.Exploratory Data Analysis
+
 6.Data Preprocessing
-7.Model Building
+
+7.Model Building & Evaluation
+
 8.Evaluation
+
 9.Conclusion
 
 ## Project Overview
